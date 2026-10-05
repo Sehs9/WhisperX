@@ -1,0 +1,6 @@
+whisper-env/
+audios/
+transcripciones/
+titulos_ollama/
+__pycache__/
+*.pyc
